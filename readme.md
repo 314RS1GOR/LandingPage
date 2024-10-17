@@ -1,14 +1,10 @@
-Ah, I see! You're referring to the "Landing Page" project that's part of [The Odin Project's curriculum](https://www.theodinproject.com/). Below is a `README.md` for that specific project:
-
----
-
 # Landing Page Project
 
 This project is part of [The Odin Project's](https://www.theodinproject.com) **Foundations** course. The goal is to practice fundamental HTML and CSS skills by building a landing page from scratch.
 
 ## Project Overview
 
-In this project, you will:
+This project had the following objectives:
 - Build a landing page similar to many product or service landing pages you see on the web.
 - Apply essential HTML and CSS concepts like structure, layout, and basic styling.
 - Focus on writing clean, maintainable code with a responsive design in mind.
